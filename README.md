@@ -1,4 +1,21 @@
-**Task**: Create a simple calculater for timecode
+**Task**: 
+
+Using Python 3.6 and Qt4, please prepare a GUI based SMPTE timecode Calculator. 
+You can leverage active projects on the Internet to assist in your development. Please prepare the calculator so it runs as a standalone program. 
+You can use this online TC Calculator as an example of the functionality: https://robwomack.com/timecode-calculator/ 
+Useful Resource Projects that you can leverage for your test. 
+SMPTE Time code projects 
+https://github.com/eoyilmaz/timecode 
+https://gist.github.com/manneohrstrom/8033e178cd38589b0226b45cef1dfe30 
+Python Qt Calculator Project 
+https://realpython.com/python-pyqt-gui-calculator/ 
+Ideally I would like to see a working “Time Code Calculator” where I can input various time codes and see the correct output if I change the frame rate. As per the online example above. 
+It will need to support at least the following frame rates: 23.976, 23.98, 24, 25, 29.97, 30, 50, 59.94, 60 fps (frames per second) 
+Once completed (or much as you can achieve in an hour) then post the project to your personal github account or equivalent for us to review. 
+Hint: We will be reviewing your code, so well commented code will be advantageous. 
+P.S. The test will last one hour and it doesn’t need to be concluded (if you don't have time), but try to do as much as possible. 
+Good Luck!
+
 
 **Solution:**
 
